@@ -8,6 +8,8 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
+I am currently a senior at the University of Alabama majoring in Computer Science with a minor in Mathematics with an expected graduation date of May 2022.  I am doing research with the Brain-Computer Interface (BCI) robotics disciplinary using devices such as the electroencephalogram.
+
 My name is Shomari Thomas and I attend the University of Alabama. I am a senior pursuing a computer science degree with a math minor. I plan to graduate May 2022.
 ## About My Mentor
 
