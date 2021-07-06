@@ -10,7 +10,6 @@ title: Summer 2020 DREU Project Site
 
 I am currently a senior at the University of Alabama majoring in Computer Science with a minor in Mathematics with an expected graduation date of May 2022.  I am doing research with the Brain-Computer Interface (BCI) robotics disciplinary using devices such as the electroencephalogram.
 
-My name is Shomari Thomas and I attend the University of Alabama. I am a senior pursuing a computer science degree with a math minor. I plan to graduate May 2022.
 ## About My Mentor
 
 Chris Crawford Works at the intersection of Brain-Computer Interface (BCI), Human-Computer Interaction (HCI), and Robotics. Investigating systems that leverage physiological signals such as electroencephalography (EEG) to enhance Human-Robot Interaction (HRI). He is also researching ways to lower the barriers to entry for novice programmers interested in designing and developing BCI applications.
