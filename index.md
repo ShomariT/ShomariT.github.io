@@ -24,4 +24,7 @@ A collaboration with The University of Alabama to create the ability to use prot
 
 ## My Blog
 
+Week 1 : 
+The first week of my REU experience was spent talking to Dr. Crawford, brainstorming about ideas on the research project. We talked about the absence of journal with infomation about using prototyping for educational purposes. Brainstormed on how we could potientally use low fidelity so students could have the ability to create mock up prototypes while learning about robotics and computer science. 
+
 [My Blog](blog.html)
