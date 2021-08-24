@@ -39,5 +39,15 @@ In week 4 I was still trying to grab a concept of using the Arduino software. Th
 Week 5: 
 In week 5 of the REU. Dr. Crawford gave me the task to create a complicated circuit with a servo motor and other components like buttons. I began tackling the hardware components to create the circuit. I created the circuit but I stumbled across a problem with powering up the servo motor. This was very frustrating because I felt like I had done everything right. I tested the motor by creating a simple circuit and it worked perfectly fine but when I used it with the complicated circuit, it got little to no power. I did my research on a problem and glanced across multiple potiential solutions and none of them worked. I used a voltmeter to test for shortages or open circuits and never found a problem. After trying countless methods I decided to use another arduino with the servo motor and it worked perfectly. It turns out that the old arduino stopped applying the right amount of current due the overwork on the Arduino uno. 
 
+Week 6
+
+In week 6 I continued to work on the complicated circuit. At this point I got a design working with a fan. I can make the fan turn clockwise and counter clockwise. I decided to try to control the fan with external components like buttons and sensors. I found a lot of modules on the internet to help me with this design. I used the resources to lead me with some code to implement the extra components. I created my own code but came across some issues with compiling. After lots of hours I found my fault in my code and I was able to use the buttons to make the fan turn clockwise and counter clockwise. 
+
+Week 7
+In week 7, I met with Dr. Crawford and we looked over my progress and began to discuss next steps. Dr. Crawford asked me to create a design that controls the speed of the fan. Also, he wanted the fan to be able to use the wind to make an object float. I did research on the web to look for the components I needed to contril the speed of the fan. I found out that I needed more wires and a new driver to power the fan. We got the supplies ordered and I began constructuing the circuit. I set up the circuit correctly but I could not control the speed of the fan. I was very confused because I had the correct driver with the wires in the correct places. I looked up the schematic for the driver to double check my wiring. I eventually asked my mentor, a electrical engineer for help. After a brief meeting he showed me how to rewire the circuit and everything worked perfectly. The issue that he found was that the schematic for the driver.
+
+Week 8
+
+
 
 [My Blog](blog.html)
