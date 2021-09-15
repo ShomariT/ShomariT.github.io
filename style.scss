@@ -177,10 +177,14 @@ img {
 	height: 5px; 
   }
 
-  img {
-    border-radius: 5px;
+	img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
 
-  }
+<img src="images/shomari1.png" alt="Shomari">
 }
 
 .site-info {
