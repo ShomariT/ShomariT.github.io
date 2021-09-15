@@ -54,5 +54,3 @@ In week 9 , I began to create a webpage to send a input to the arduino to contro
 Week 10:
 In week 10, Dr. Crawford and I looked over code and the webpage that I created. We sat down for some time and he was able to implement a new webpage using some old modules he had stored. We made a new server to do the communication for the step. The server was able to grab all of the arduino functionalities. The new webpage was able to communicate to the arduino and control the fan. I added a new light module to the webpage and circuit to see if it could handle extra components. This worked and I showed Dr. Crawford my progress and now he will implement a tool called the EEG to the webpage to control the arduino. He will use this project for educational purposes.
 
-
-[My Blog](blog.html)
