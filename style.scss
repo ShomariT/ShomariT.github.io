@@ -172,13 +172,14 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 0 auto;	
+	 width: 10%;  
+	height: 10%; 
   }
 
   img {
     border-radius: 5px;
-width: 10%;  
-height: 10%; 
+
   }
 }
 
