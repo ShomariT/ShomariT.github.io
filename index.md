@@ -20,7 +20,7 @@ https://htilua.org/about-the-pi
 
 A collaboration with The University of Alabama to create the ability to use low fidelity prototyping with tools like the electroencephalography (EEG) for educational purposes using external software and hardware like the Arduino. Will use low fidelity prototyping to give an interactive ability and to teach middle and high school students about computer science and how to create prototypes themselves. 
 
-[My Final Report](finalreport1.pdf)
+[My Final Report](images/finalreport1.pdf)
 
 ## My Blog
 
