@@ -166,7 +166,7 @@ img {
 .site-avatar {
   float: right;
 	    width: 50%;
-height: auto;
+height: 50%;
   margin-right: 15px;
 
   @include mobile {
