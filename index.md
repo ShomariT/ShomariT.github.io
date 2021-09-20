@@ -14,7 +14,7 @@ I am currently a senior at the University of Alabama majoring in Computer Scienc
 
 Chris Crawford assistant professor at The University of Alabama works at the intersection of Brain-Computer Interface (BCI), Human-Computer Interaction (HCI), and Robotics. Investigating systems that leverage physiological signals such as electroencephalography (EEG) to enhance Human-Robot Interaction (HRI). He is also researching ways to lower the barriers to entry for novice programmers interested in designing and developing BCI applications.
 
-https://htilua.org/about-the-pi
+[About my Mentor](https://htilua.org/about-the-pi)
 
 ## About My Project
 
