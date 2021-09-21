@@ -49,6 +49,7 @@ h1 {
   font-size: 30px;
   a {
     color: inherit;
+	  text-align: center;
   }
 }
 
@@ -202,7 +203,7 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-	text-align: center;
+
 	
 }
 
