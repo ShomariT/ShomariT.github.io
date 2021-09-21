@@ -71,8 +71,6 @@ p {
 
 a {
   color: $blue;
-	float: left;
-	line-height: 3.9;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
