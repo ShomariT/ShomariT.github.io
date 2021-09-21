@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2021 DREU Project Site
+title: 
 ---
 
 
