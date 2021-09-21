@@ -28,7 +28,6 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-	line-height: 5.0;
 
 }
 
@@ -72,6 +71,7 @@ p {
 
 a {
   color: $blue;
+	float: left;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
