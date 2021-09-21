@@ -14,7 +14,7 @@
 /**************/
 
 html {
-  font-size: 10%;
+  font-size: 100%;
 }
 
 body {
@@ -165,8 +165,8 @@ img {
 
 .site-avatar {
   float: center;
-	    width: 10px;
-height: 10px;
+	    width: 1px;
+height: 1px;
   margin-right: 5px;
 
   @include mobile {
