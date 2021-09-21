@@ -204,7 +204,7 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-text-align: right;
+
 	
 }
 
@@ -212,6 +212,7 @@ text-align: right;
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+	text-align: right;
 	
 
   @include mobile {
