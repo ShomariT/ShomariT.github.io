@@ -1,12 +1,12 @@
 ---
 layout: default
 title: 
----
+---  
 
 
-* TOC
-{:toc}
-
+* TOC  
+{:toc}  
+  
 
 ## About Me
 
