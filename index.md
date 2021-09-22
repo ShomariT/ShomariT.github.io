@@ -3,8 +3,10 @@ layout: default
 title: 
 ---
 
-TOC
+
+* TOC
 {:toc}
+
 
 ## About Me
 
