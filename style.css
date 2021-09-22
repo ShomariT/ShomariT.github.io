@@ -197,7 +197,6 @@ img {
 
 .site-name {
   color: $darkGray;
-  cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 32px;
