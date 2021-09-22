@@ -167,7 +167,7 @@ img {
 }
 
 .site-avatar {
-  float: none; 
+  float: right; 
 	width: 100px;
 	height: 100px;
   margin-right: 5px;
