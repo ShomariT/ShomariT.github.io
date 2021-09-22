@@ -22,7 +22,7 @@ Chris Crawford assistant professor at The University of Alabama works at the int
 
 A collaboration with The University of Alabama to create the ability to use low fidelity prototyping with tools like the electroencephalography (EEG) for educational purposes using external software and hardware like the Arduino. Will use low fidelity prototyping to give an interactive ability and to teach middle and high school students about computer science and how to create prototypes themselves. 
 
-[My Final Report](https://github.com/ShomariT/dreuprojecttemplate/blob/3c5a396b668dc8f80fdfd81b2ac8b6b008b1f2a5/files/finalreport.pdf)
+[My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
