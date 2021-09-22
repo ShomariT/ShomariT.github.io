@@ -8,7 +8,6 @@ title:
 {:toc}
 
 ***
-###
 
 ## About Me
 
